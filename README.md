@@ -1,4 +1,4 @@
-<p align="center">
+8<p align="center">
   <img src="banner.png" alt="Venkat Marneni: AI/ML Engineer building LLM systems you can trust" width="100%">
 </p>
 
@@ -33,6 +33,6 @@ I have an MS in Data Science from Florida State University and I'm based in New 
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/naga-venkat-marneni-a95272268/) · [Kaggle](https://www.kaggle.com/marneninagavenkat) · [Email](mailto:marneninagavenkat1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/naga-venkat-m-a67885202?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Kaggle](https://www.kaggle.com/marneninagavenkat) · [Email](mailto:marneninagavenkat1@gmail.com)
 
 I'm open to AI/ML Engineer, GenAI Engineer and Data Scientist roles.
