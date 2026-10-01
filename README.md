@@ -1,4 +1,4 @@
-8<p align="center">
+<p align="center">
   <img src="banner.png" alt="Venkat Marneni: AI/ML Engineer building LLM systems you can trust" width="100%">
 </p>
 
