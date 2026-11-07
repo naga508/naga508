@@ -33,6 +33,6 @@ I have an MS in Data Science from Florida State University and I'm based in New 
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/naga-venkat-m-a67885202?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Kaggle](https://www.kaggle.com/marneninagavenkat) · [Email](mailto:marneninagavenkat1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/naga-venkat-marneni-a67885202?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Kaggle](https://www.kaggle.com/marneninagavenkat) · [Email](mailto:marneninagavenkat1@gmail.com)
 
 I'm open to AI/ML Engineer, GenAI Engineer and Data Scientist roles.
